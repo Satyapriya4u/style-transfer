@@ -1,4 +1,4 @@
-# Neural Style Transfer & Neural Doodles
+# Neural Style Transfer
 Implementation of Neural Style Transfer from the paper <a href="http://arxiv.org/abs/1508.06576">A Neural Algorithm of Artistic Style</a> in Keras 2.0+
 
 ## Colaboratory Support
